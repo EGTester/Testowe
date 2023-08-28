@@ -4,5 +4,3 @@ Przypadek testowy 1.
 Przypadek testowy 2.
 Plan pracy
 Raport 
-
-#Projekt 2
